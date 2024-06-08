@@ -1,0 +1,33 @@
+.courtPicture {
+    position: absolute;
+    z-index: 3;
+    left: -8%;
+    top: 5%;
+}
+
+.scrollToReadMore {
+    position: relative;;
+    z-index: 4;
+    color: white;
+    font-family: 'inter';
+    font-weight: 200;
+    font-size: calc(0.7em + 1vw),
+}
+
+.downArrow1 {
+    width: 8%;
+}
+
+.downArrow2 {
+    width: 8%;
+}
+
+.blackBoxLeftDiv {
+    display: "flex";
+    flex-direction: "column";
+    background-color: "black";
+    width: "50%";
+    height: "77.69vh";
+    z-index: 2;
+    align-content: "leading";
+}

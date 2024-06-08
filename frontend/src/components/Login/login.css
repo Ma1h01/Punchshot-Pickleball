@@ -1,0 +1,27 @@
+.login_logo_image{
+    position: relative;
+    width: 50.3%;
+    height: 27%;
+  }
+
+  .login_input {
+    position: relative;
+    width: 83%;
+    padding-top: 3%;
+  }
+
+  .login_button_grid {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 40vh;
+    margin-top: 3%;
+    border: 1px solid black;
+  }
+
+  .login_x_button {
+    width: 2vw;
+    height: 2vw;
+    
+    margin-top: 2vw;
+  }
